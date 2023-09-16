@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhishek Roshan</h1>
 <h3 align="center">Full Stack developer</h3>
 
-- 🌱 I’m currently learning **Next.js and BlockChain**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hisekr&label=Profile%20views&color=046bd2&style=flat" alt="hisekr" /> </p>
+
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **React.js and Javascript**
 
-- 🤝 I’m looking for help with **React Native**
+- 🤝 I’m looking for help with **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://port-hisek-r.vercel.app/](https://port-hisek-r.vercel.app/)
 
