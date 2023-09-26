@@ -14,8 +14,7 @@
 - 💬 Ask me about **C++,React,JS & Algorithms**
 
 - 📫 How to reach me **hisekr00@gmail.com**
-
-- ⚡ Fun fact **I'm Pretty Good at FPS Games.**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
