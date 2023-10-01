@@ -9,11 +9,13 @@
 
 - 🤝 I’m looking for help with **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://port-hisek-r.vercel.app/](https://port-hisek-r.vercel.app/)
+- 👨‍💻 All of my projects are available at [github.com/hisekr]
 
 - 💬 Ask me about **C++,React,JS & Algorithms**
 
 - 📫 How to reach me **hisekr00@gmail.com**
+
+-My Portfolio: [[https://port-hisek-r.vercel.app/](https://port-hisek-r.vercel.app/)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
