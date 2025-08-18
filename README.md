@@ -1,5 +1,5 @@
 <h1 align="center" style="color: slate">Hi 👋, I'm Abhishek Roshan</h1>
-<h3 align="center">FrontEnd developer</h3>
+<h3 align="center">FullStack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisekr&label=Profile%20views&color=046bd2&style=flat" alt="hisekr" /> </p>
 
