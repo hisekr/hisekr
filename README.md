@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisekr&label=Profile%20views&color=046bd2&style=flat" alt="hisekr" /> </p>
 
-- 👯 I’m looking to collaborate on **React.js and Javascript**
+- 👯 I’m looking to collaborate on **Javascript, Typescript, React.js, Nextjs and Nodejs**
 
-- 💬 Ask me about **C++,React,JS & Algorithms**
+- 💬 Ask me about **C++, JS & Algorithms**
 
 - 📫 How to reach me **abhishekroshan11@gmail.com**
 
